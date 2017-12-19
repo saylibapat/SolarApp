@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReMeda</string>
+    <string name="nameerror">Enter Valid Name</string>
+    <string name="emailerror">Enter Valid Email</string>
+    <string name="passworderror">Enter Some Password</string>
+    <string name="devinfo">Meet the developers</string>
+    <string name="devpara">This mobile application has been developed by Anuja, Anushree, Chinmayi, Sayli and Swarada studying at Maharashtra Institute of Technology, under the guidance of Dr. Mr. M. V. Bedekar and MIT TBI</string>
+</resources>
